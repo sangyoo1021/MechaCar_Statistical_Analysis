@@ -3,7 +3,7 @@
 
 ## Linear Regression to Predict MPG
 
-![Linear_Regression_to_Predict](Link)
+![Linear_Regression_to_Predict](https://github.com/sangyoo1021/MechaCar_Statistical_Analysis/blob/main/Linear_Regression_to_Predict.png)
 
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Looking at  the data, both vehicle length and ground clearance shows impact on mpg values. 
@@ -16,16 +16,16 @@ The linder model prediction seems to be fairly effective since R-squared is 0.71
 
 
 ## Summary Statistics on Suspension Coils
-![Total_Summary](Link)
-![Lot_Summary](Link)
+![Total_Summary](https://github.com/sangyoo1021/MechaCar_Statistical_Analysis/blob/main/Total_Summary.png)
+![Lot_Summary](https://github.com/sangyoo1021/MechaCar_Statistical_Analysis/blob/main/Lot_Summary.png)
 Looking at the total summary result, the pounds per square inch variance is 62.29356. This satisfies the design specific requirement. However, Lot 3 does not meet the requirement.
 
 ## T-Tests on Suspension Coils
 The results of the T-Test are listed below. 
-![T-test](Link)
-![T-test_lot1](Link)
-![T-test_lot2](Link)
-![T-test_lot3](Link)
+![T-test](https://github.com/sangyoo1021/MechaCar_Statistical_Analysis/blob/main/T-test.png)
+![T-test_lot1](https://github.com/sangyoo1021/MechaCar_Statistical_Analysis/blob/main/T-test_lot1.png)
+![T-test_lot2](https://github.com/sangyoo1021/MechaCar_Statistical_Analysis/blob/main/T-test_lot2.png)
+![T-test_lot3](https://github.com/sangyoo1021/MechaCar_Statistical_Analysis/blob/main/T-test_lot3.png)
 
 
 ## Study Design: MechaCar vs Competition
